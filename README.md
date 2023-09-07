@@ -1,2 +1,2 @@
-# Irish_classification
-Irish flower classification with logistic regression machine learning
+# Iris_classification
+Iris flower classification with logistic regression machine learning
